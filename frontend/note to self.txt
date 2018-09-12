@@ -1,0 +1,1 @@
+babel cli installation: npm install -g --save-dev babel-cli
