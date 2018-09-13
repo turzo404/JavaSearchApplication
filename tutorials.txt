@@ -1,0 +1,15 @@
+https://hackernoon.com/setting-up-node-js-with-a-database-part-1-3f2461bdd77f
+
+https://github.com/db-migrate/mysql
+
+https://www.sitepoint.com/using-node-mysql-javascript-client/
+
+http://docs.sequelizejs.com/manual/installation/getting-started.html
+
+https://gist.github.com/clarle/3180770
+
+https://github.com/anguer/express-mysql-seed
+
+https://www.jernejsila.com/2016/09/04/creating-database-migrations-seeds-node-js/
+
+http://bookshelfjs.org/
